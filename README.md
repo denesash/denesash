@@ -1,7 +1,7 @@
 # Hi!👋 I'm Denesa
 - 👀 I’m interested in Data Science | Data Analytics | Data Engineer 
 - 🌱 I’m currently exploring a wide range of topics
-- 👯 "I’m open to collaborating on data-related roles
+- 👯 I’m open to collaborating on data-related roles
 - 📫 Reach me through my email: denesalmahanun@gmail.com
 
 ### My Tech Stacks :
